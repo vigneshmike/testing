@@ -24,4 +24,8 @@ Test10
 Test11
 good day
 >>>>>>> qa
+<<<<<<< HEAD
 hiii good day to all
+=======
+hii good day all
+>>>>>>> 52819a5 (new line added)
