@@ -1,8 +1,6 @@
 name: hello-day
-on: 
-  push:
-    branches: 
-      - " ** "
+on: push 
+  
 jobs:
   mynew-job:
     runs-on: ubuntu-latest
