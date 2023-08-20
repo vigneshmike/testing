@@ -2,8 +2,7 @@ name: hello-day
 on: 
   push:
     branches: 
-      - " develop "
-      - " qa "
+      - " ** "
 jobs:
   mynew-job:
     runs-on: ubuntu-latest
