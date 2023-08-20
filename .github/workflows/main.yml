@@ -1,11 +1,11 @@
-name: hello-world
+name: hello-day
 on: 
   push:
     branches: 
       - " develop "
       - " qa "
 jobs:
-  my-job:
+  mynew-job:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
